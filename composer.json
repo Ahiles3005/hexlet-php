@@ -1,0 +1,12 @@
+{
+    "name": "ahiles3005/hexlet-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ahiles300",
+            "email": "ahiles3005@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
